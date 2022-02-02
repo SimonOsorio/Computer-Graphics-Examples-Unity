@@ -59,11 +59,11 @@ sysinfo.txt
 crashlytics-build.properties
 
 #External packages not allowed to be shared
-Assets/Third Party/Day-Night Skyboxes
+/Day-Night Skyboxes/
 Day-Night Skyboxes.meta
-Assets/Third Party/Hierarchy 2
+/Hierarchy 2/
 Hierarchy 2.meta
-Assets/Third Party/LeanTween
+/LeanTween/
 LeanTween.meta
-Assets/TextMesh Pro
+/TextMesh Pro/
 TextMesh Pro.meta
